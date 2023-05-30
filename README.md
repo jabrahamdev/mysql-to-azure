@@ -16,9 +16,9 @@ The process involves the following steps:
 
 Before proceeding, ensure you have the following:
 
-Azure Databricks workspace
-MySQL database with appropriate credentials
-Databricks cluster with required libraries (e.g., mysql-connector-java)
+- Azure Databricks workspace
+- MySQL database with appropriate credentials
+- Databricks cluster with required libraries (e.g., mysql-connector-java)
 
 
 ## Establish Connection to MySQL Database
