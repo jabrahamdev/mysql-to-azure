@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This comprehensive guide will walk you through the process of ingesting a MySQL database into Azure Databricks as Parquet format. Azure Databricks is a powerful data analytics platform that enables efficient processing and analysis of large datasets. By converting the MySQL database into Parquet format, we can leverage the benefits of columnar storage and optimize query performance in Databricks.
+This guide will walk you through the process of ingesting a MySQL database into Azure Databricks as Parquet format. Azure Databricks is a powerful data analytics platform that enables efficient processing and analysis of large datasets. By converting the MySQL database into Parquet format, we can leverage the benefits of columnar storage and optimize query performance in Databricks.
 
 The process involves the following steps:
 
